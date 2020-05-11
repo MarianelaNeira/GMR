@@ -1,0 +1,27 @@
+{
+    "Title": "Nombres equipo",
+    "ColumnHeaders" :
+    [
+    "Nombre",
+    "Apellido", 
+    "Rut",
+    ],
+    "Data" :
+    [
+    {
+    "Nombre" : "Marianela",
+    "Apellido" : "Neira",
+    "Rut" : "177889806",
+    },
+    {
+    "Nombre" : "Ana Maria",
+    "Apellido" : "Neira",
+    "Rut" : "16964201k",
+    },
+    {
+    "Nombre" : "Roberto",
+    "Apellido" : "González",
+    "Rut" : "181708549",
+    },
+    ]
+   }
