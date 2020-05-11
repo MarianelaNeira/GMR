@@ -1,27 +1,37 @@
 {
-    "Title": "Nombres equipo",
+    "Title": "Team Members",
     "ColumnHeaders" :
     [
-    "Nombre",
-    "Apellido", 
-    "Rut",
+    "ID",
+    "Name", 
+    "Role",
+    "Nickname"
     ],
     "Data" :
     [
     {
-    "Nombre" : "Marianela",
-    "Apellido" : "Neira",
-    "Rut" : "177889806",
+    "ID" : "001",
+    "Name" : "John Doe",
+    "Role" : "Engineer",
+    "Nickname" : "KillerJo",
     },
     {
-    "Nombre" : "Ana Maria",
-    "Apellido" : "Neira",
-    "Rut" : "16964201k",
+    "ID" : "023",
+    "Name" : "Claire Dawn",
+    "Role" : "Engineer",
+    "Nickname" : "Claw",
     },
     {
-    "Nombre" : "Roberto",
-    "Apellido" : "González",
-    "Rut" : "181708549",
+    "ID" : "012",
+    "Name" : "Paul Beef",
+    "Role" : "Designer",
+    "Nickname" : "BeefyPaul",
+    },
+    {
+    "ID" : "056",
+    "Name" : "Sally Sue",
+    "Role" : "Artist",
+    "Nickname" : "Sue5555",
     },
     ]
    }
